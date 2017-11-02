@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <MSBuildAllProjects>$(MSBuildAllProjects);$(MSBuildThisFileFullPath)</MSBuildAllProjects>
+    <HasSharedItems>true</HasSharedItems>
+    <SharedGUID>256eb24f-05d6-4e48-a2ba-a67484255937</SharedGUID>
+  </PropertyGroup>
+  <PropertyGroup Label="Configuration">
+    <Import_RootNamespace>Nightlight.Core</Import_RootNamespace>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Include="$(MSBuildThisFileDirectory)Attributes\NightlightStringAttribute.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Helpers\AttributeReader.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Nodes\NightlightFormNodeBase.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Attributes\NightlightBaseAttribute.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Nodes\NightlightFormNodeString.cs" />
+  </ItemGroup>
+</Project>

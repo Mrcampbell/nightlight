@@ -1,0 +1,7 @@
+C:\Users\miker\Desktop\Nightlight\Nightlight.QAConsole\obj\Debug\Nightlight.QAConsole.csprojResolveAssemblyReference.cache
+C:\Users\miker\Desktop\Nightlight\Nightlight.QAConsole\obj\Debug\Nightlight.QAConsole.csproj.CoreCompileInputs.cache
+C:\Users\miker\Desktop\Nightlight\Nightlight.QAConsole\bin\Debug\Nightlight.QAConsole.exe.config
+C:\Users\miker\Desktop\Nightlight\Nightlight.QAConsole\bin\Debug\Nightlight.QAConsole.exe
+C:\Users\miker\Desktop\Nightlight\Nightlight.QAConsole\bin\Debug\Nightlight.QAConsole.pdb
+C:\Users\miker\Desktop\Nightlight\Nightlight.QAConsole\obj\Debug\Nightlight.QAConsole.exe
+C:\Users\miker\Desktop\Nightlight\Nightlight.QAConsole\obj\Debug\Nightlight.QAConsole.pdb
